@@ -1,0 +1,10 @@
+{
+  "wer": 1.0,
+  "accuracy": 0.0,
+  "sentence_accuracy": 0.0,
+  "sentences_evaluated": 98,
+  "substitutions": 0,
+  "insertions": 0,
+  "deletions": 349,
+  "reference_glosses": 349
+}
